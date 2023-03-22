@@ -1,0 +1,96 @@
+.meuNome{
+
+    font-family: 'Courier New', Courier, monospace ;
+
+}
+
+.Descrição{
+
+    font-family: sans-serif;
+}
+
+body{
+
+    background-color:white;
+}
+
+.resido{
+    font-style: italic;
+    
+}
+
+.Comprometimento{
+
+font-size: 28px;
+
+}
+
+.JavaScript{
+
+    font-size: 26px;
+}
+
+
+.html{
+
+    font-size: 24px;
+}
+
+.Css{
+
+    font-size: 22px;
+}
+
+.Organi{
+
+    font-size: 20px;
+}
+
+.Comunicacao{
+    font-size: 18px;
+}
+
+.Empatia{
+    font-size: 18;
+}
+.Git{
+    font-size: 18px;
+}
+#link-sobre{
+background: #b1b1b1;
+color: black;
+text-decoration: none;
+font-weight: bold;
+border-width: 4px;
+border-style: solid;
+border-top-color: #dfdfdf;
+border-right-color: #666; 
+border-left-color: #858585; 
+}
+#link-sobre:hover{
+    text-decoration: underline;
+    color: #fff;
+    background:#b1b1b1;
+    font-weight: bold;
+    border-color: #b1b1b1;
+    
+}
+
+#foto{
+    background: #b1b1b1;
+color: black;
+text-decoration: none;
+font-weight: bold;
+border-width: 4px;
+border-style: solid;
+border-top-color: #dfdfdf;
+border-right-color: #666; 
+border-left-color: #858585; 
+}
+#foto:hover{
+    text-decoration: underline;
+    color: #fff;
+    background:#b1b1b1;
+    font-weight: bold;
+    border-color: #b1b1b1;
+}
