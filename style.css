@@ -94,3 +94,59 @@ border-left-color: #858585;
     font-weight: bold;
     border-color: #b1b1b1;
 }
+
+#hub{
+    background-color: #11a36a ;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    padding:15px 30px ;
+    font-size: 16px;
+    font-weight: 600;
+}
+#hub:hover{
+    text-decoration: underline;
+    color: #54AEFF ;
+}
+#Linkedin{
+
+    background-color: #11a36a ;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    padding:15px 30px ;
+    font-size: 16px;
+    font-weight: 600;
+}
+#Linkedin:hover{
+    text-decoration: underline;
+    color: #54AEFF ;
+}
+
+#jovemnerd{
+
+    background-color: #11a36a ;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    padding:15px 30px ;
+    font-size: 16px;
+    font-weight: 600;
+}
+#jovemnerd:hover{
+    text-decoration: underline;
+    color: #54AEFF ;
+}
+#artigo{
+    background-color: #11a36a ;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    padding:15px 30px ;
+    font-size: 16px;
+    font-weight: 600;
+}
+#artigo:hover{
+    text-decoration: underline;
+    color: #54AEFF ;
+}
