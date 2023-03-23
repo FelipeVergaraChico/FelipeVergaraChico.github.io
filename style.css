@@ -1,7 +1,10 @@
 .meuNome{
 
     font-family: 'Courier New', Courier, monospace ;
-
+    align-items: center;
+    position: absolute;
+    bottom: 900px;
+    right: 700px;
 }
 
 .Descrição{
@@ -12,7 +15,11 @@
 body{
 
     background-color:white;
-}
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} 
 
 .resido{
     font-style: italic;
@@ -150,3 +157,17 @@ border-left-color: #858585;
     text-decoration: underline;
     color: #54AEFF ;
 }
+#description{
+    position: absolute;
+    right: 900px;
+    bottom: 500px;
+    width: 30%;
+}
+#minha-foto{
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 50px;
+   
+    
+}
+
